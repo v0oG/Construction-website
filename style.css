@@ -1,0 +1,219 @@
+   mark {
+       background-color: #1773e3;
+       color: white;
+   }
+   
+   #headpage {
+       display: flex;
+       background-color: #ffcb0f;
+       height: 45px;
+   }
+   
+   #NumberMailDate {
+       float: left;
+       display: flex;
+       margin-top: auto;
+       margin-bottom: auto;
+       margin-left: 130px;
+       font-size: 16px;
+       text-indent: 20px;
+   }
+   
+   #Socials {
+       float: right;
+       display: flex;
+       margin-left: auto;
+       margin-right: 130px;
+       margin-bottom: auto;
+       margin-top: auto;
+       text-indent: 13px;
+   }
+   
+   .topnav {
+       overflow: hidden;
+       background-color: #222533;
+   }
+   
+   .topnav a {
+       float: left;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+   }
+   
+   .topnav a:hover {
+       background-color: #ddd;
+       color: #222533;
+   }
+   
+   .topnav a.active {
+       background-color: #04AA6D;
+       color: white;
+   }
+   
+   #navbar {
+       display: flex;
+       background-color: #222533;
+       height: 90px;
+   }
+   
+   #navbarMenu {
+       margin-left: auto;
+       margin-right: 115px;
+       margin-bottom: auto;
+       margin-top: auto;
+   }
+   
+   #navbarLogo {
+       margin-top: auto;
+       margin-bottom: auto;
+       margin-left: 130px;
+   }
+   
+   #backgroundimage {
+       display: block;
+       background-image: url('images/slider_img2.jpg');
+       height: 500px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       position: relative;
+       box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 41%);
+   }
+   
+   .btnkm {
+       background-color: #ffcb0f;
+       height: 30px;
+       width: 115px;
+       border-radius: 24px;
+       color: white;
+       border: none;
+       margin: 0;
+   }
+   
+   #smalltitle {
+       font-size: 35px;
+       color: white;
+       text-align: center;
+       padding-top: 40px;
+   }
+   
+   #ttlWhite {
+       color: white;
+       font-size: 50px;
+       text-align: center;
+   }
+   
+   #ttlYellow {
+       color: #ffcb0f;
+       font-size: 50px;
+       text-align: center;
+   }
+   
+   #firstParagraph {
+       color: white;
+       text-align: center;
+       text-align: justify;
+       margin-left: 130px;
+       margin-right: 130px;
+   }
+   
+   #scndPage {
+       display: flex;
+       height: 400px;
+   }
+   
+   #scndPageTextWlcm {
+       font-size: 28px;
+       margin-left: 120px;
+       text-align: justify;
+       color: #ffcb0f;
+   }
+   
+   #scndPageTextAliquam {
+       font-size: 25.5px;
+       margin-left: 120px;
+       margin-bottom: -35px;
+       text-align: justify;
+       color: #484849;
+   }
+   
+   #prgrph {
+       margin-left: 120px;
+       margin-right: 18%;
+       text-align: justify;
+   }
+   
+   #manBackground {
+       margin-top: 67px;
+       margin-right: 263px;
+   }
+   
+   #man {
+       margin-top: -377px;
+       margin-left: 18%;
+   }
+   
+   .btnkm2 {
+       background-color: #ffcb0f;
+       height: 30px;
+       width: 115px;
+       border-radius: 24px;
+       color: white;
+       border: none;
+       margin: 0;
+       position: absolute;
+       bottom: -310px;
+       left: 180px;
+       -ms-transform: translate(-50%, -50%);
+       transform: translate(-50%, -50%);
+   }
+   
+   #thirdPage {
+       background-color: #f2f7fa;
+       background-size: cover;
+       margin-top: 65px;
+       border: none;
+   }
+   
+   #choice {
+       margin-left: 350px;
+       margin-right: 350px;
+       text-align: center;
+   }
+   
+   #icons3 {
+       display: flex;
+       font-size: 60px;
+       text-align: center;
+       text-indent: 250px;
+   }
+   
+   .circles3 {
+       color: #ffcb0f;
+       font-size: 120px;
+       display: flex;
+       text-align: center;
+       text-indent: 250px;
+       margin-right: 20px;
+   }
+   
+   .Bcircles3 {
+       color: #ffcb0f;
+       font-size: 120px;
+       display: flex;
+       text-align: center;
+       text-indent: 250px;
+       margin-right: 20px;
+   }
+   
+   .BBcircles3 {
+       color: #ffcb0f;
+       font-size: 120px;
+       display: flex;
+       text-align: center;
+       text-indent: 250px;
+       margin-right: 20px;
+   }
