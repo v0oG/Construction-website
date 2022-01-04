@@ -94,6 +94,7 @@
    }
    
    #smalltitle {
+       margin: 0;
        font-size: 35px;
        color: white;
        text-align: center;
@@ -217,3 +218,6 @@
        text-indent: 250px;
        margin-right: 20px;
    }
+
+
+
